@@ -1,25 +1,22 @@
 {
   "files": {
-    "main.css": "/nervegear/static/css/main.66fc8823.chunk.css",
-    "main.js": "/nervegear/static/js/main.1b205eeb.chunk.js",
-    "main.js.map": "/nervegear/static/js/main.1b205eeb.chunk.js.map",
-    "runtime-main.js": "/nervegear/static/js/runtime-main.2142cf61.js",
-    "runtime-main.js.map": "/nervegear/static/js/runtime-main.2142cf61.js.map",
-    "static/css/2.f5636705.chunk.css": "/nervegear/static/css/2.f5636705.chunk.css",
-    "static/js/2.0d86ccdd.chunk.js": "/nervegear/static/js/2.0d86ccdd.chunk.js",
-    "static/js/2.0d86ccdd.chunk.js.map": "/nervegear/static/js/2.0d86ccdd.chunk.js.map",
-    "index.html": "/nervegear/index.html",
-    "precache-manifest.deea6c7a3ca26e069213c00b7e05adeb.js": "/nervegear/precache-manifest.deea6c7a3ca26e069213c00b7e05adeb.js",
-    "service-worker.js": "/nervegear/service-worker.js",
-    "static/css/2.f5636705.chunk.css.map": "/nervegear/static/css/2.f5636705.chunk.css.map",
-    "static/css/main.66fc8823.chunk.css.map": "/nervegear/static/css/main.66fc8823.chunk.css.map",
-    "static/js/2.0d86ccdd.chunk.js.LICENSE.txt": "/nervegear/static/js/2.0d86ccdd.chunk.js.LICENSE.txt"
+    "main.js": "./static/js/main.418bf5f6.chunk.js",
+    "main.js.map": "./static/js/main.418bf5f6.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.e0478223.js",
+    "runtime-main.js.map": "./static/js/runtime-main.e0478223.js.map",
+    "static/css/2.f5636705.chunk.css": "./static/css/2.f5636705.chunk.css",
+    "static/js/2.1ae7f0c4.chunk.js": "./static/js/2.1ae7f0c4.chunk.js",
+    "static/js/2.1ae7f0c4.chunk.js.map": "./static/js/2.1ae7f0c4.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.7bb28701b920eb5f176e3486176e8fe7.js": "./precache-manifest.7bb28701b920eb5f176e3486176e8fe7.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.f5636705.chunk.css.map": "./static/css/2.f5636705.chunk.css.map",
+    "static/js/2.1ae7f0c4.chunk.js.LICENSE.txt": "./static/js/2.1ae7f0c4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2142cf61.js",
+    "static/js/runtime-main.e0478223.js",
     "static/css/2.f5636705.chunk.css",
-    "static/js/2.0d86ccdd.chunk.js",
-    "static/css/main.66fc8823.chunk.css",
-    "static/js/main.1b205eeb.chunk.js"
+    "static/js/2.1ae7f0c4.chunk.js",
+    "static/js/main.418bf5f6.chunk.js"
   ]
 }
